@@ -3,7 +3,7 @@
 <h3 align="center">Aspiring AI/ML Engineer | LLM & GenAI Enthusiast | RAG | Deep Learning</h3>
 
 <p align="center">
-  <em>Building AI-powered solutions and exploring the world of LLMs, Generative AI, and Deep Learning.</em>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Exploring+Artificial+Intelligence;Building+Machine+Learning+Projects;Learning+LLMs+%26+AI+Agents;Turning+Ideas+Into+Intelligent+Solutions" />
 </p>
 
 ---
